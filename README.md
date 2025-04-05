@@ -71,31 +71,31 @@ Happy Coding! 💻✨
       <tbody>
         <tr>
           <td>Alice Wanjiru</td>
-          <td>123 Elm St, NY</td>
+          <td>Nanyuki,</td>
           <td>+254 705551234</td>
           <td>alice@example.com</td>
         </tr>
         <tr>
           <td>Bob Mwangi</td>
-          <td>456 Oak St, CA</td>
+          <td>Kiambu,</td>
           <td>+254 785555678</td>
           <td>bob@example.com</td>
         </tr>
         <tr>
           <td>Carla Amondi</td>
-          <td>789 Pine St, TX</td>
+          <td>Muranga, </td>
           <td>+254 755598012</td>
           <td>carla@example.com</td>
         </tr>
         <tr>
           <td>David Mwangi</td>
-          <td>321 Birch St, FL</td>
+          <td>Malindi,</td>
           <td>+254 785553456</td>
           <td>david@example.com</td>
         </tr>
         <tr>
           <td>Ella Nyakio</td>
-          <td>654 Maple St, WA</td>
+          <td>Machakos,</td>
           <td>+254 76557890</td>
           <td>ella@example.com</td>
         </tr>
