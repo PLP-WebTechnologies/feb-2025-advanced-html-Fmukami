@@ -70,33 +70,33 @@ Happy Coding! 💻✨
       </thead>
       <tbody>
         <tr>
-          <td>Alice Johnson</td>
+          <td>Alice Wanjiru</td>
           <td>123 Elm St, NY</td>
-          <td>+1 555-1234</td>
+          <td>+254 705551234</td>
           <td>alice@example.com</td>
         </tr>
         <tr>
-          <td>Bob Smith</td>
+          <td>Bob Mwangi</td>
           <td>456 Oak St, CA</td>
-          <td>+1 555-5678</td>
+          <td>+254 785555678</td>
           <td>bob@example.com</td>
         </tr>
         <tr>
-          <td>Carla Green</td>
+          <td>Carla Amondi</td>
           <td>789 Pine St, TX</td>
-          <td>+1 555-9012</td>
+          <td>+254 755598012</td>
           <td>carla@example.com</td>
         </tr>
         <tr>
-          <td>David White</td>
+          <td>David Mwangi</td>
           <td>321 Birch St, FL</td>
-          <td>+1 555-3456</td>
+          <td>+254 785553456</td>
           <td>david@example.com</td>
         </tr>
         <tr>
-          <td>Ella Black</td>
+          <td>Ella Nyakio</td>
           <td>654 Maple St, WA</td>
-          <td>+1 555-7890</td>
+          <td>+254 76557890</td>
           <td>ella@example.com</td>
         </tr>
       </tbody>
